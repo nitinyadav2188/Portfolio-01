@@ -190,13 +190,13 @@
     background: linear-gradient(
       90deg,
       rgb(136, 136, 241),
-      rgb(77, 77, 241) 65%,
-      transparent 65%,
+      rgb(77, 77, 241) 78%,
+      transparent 78%,
       transparent 100%
     );
   }
   .progress-bar:nth-of-type(5):before {
-    content: "65%";
+    content: "78%";
   }
   .progress-bar:nth-of-type(7) {
     background: linear-gradient(
